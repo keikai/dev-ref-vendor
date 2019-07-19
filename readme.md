@@ -1,4 +1,4 @@
-# [Keikai Developer Reference](https://doc.keikai.io/dev-ref-vendor)
+# [Keikai Developer Reference](https://doc.keikai.io/dev-ref)
 The document introduces you how to develop a web application with Keikai through examples.
 This project contains the source code for the vendor form data collection.
 
