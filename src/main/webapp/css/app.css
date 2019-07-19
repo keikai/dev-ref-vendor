@@ -1,0 +1,162 @@
+html, body{
+    height: 100%;
+    margin: 0px; /*reset browser default to avoid vertical scrollbar */
+   	font-family: 'Lato', sans-serif;
+   	font-size: 20px;
+   	background-color: #f4f4f4;
+   	color: #4a4a4a;
+}
+a, a:visited, a:active, a:hover{
+	color: #000000;
+}
+.myapp{
+    height: 100%;
+    padding: 0 10px;
+}
+input{
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	background-color:#f4f4f4;
+	border: 1px solid #979797;
+	padding: 9px 21px;
+}
+input:hover{
+	background-color:#eaeaea;
+}
+.controlpaneltitle, #addUserPanel, .controlpanel{
+	padding-bottom: 16px;
+}
+
+.header{
+   padding: 15px 0 15px 0;
+}
+
+.logo{
+    height: 43px;
+    vertical-align: sub;
+}
+
+
+.left-arrow:hover, .right-arrow:hover{
+    opacity: 0.6;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 12px;
+    font-family: Helvetica;
+    color: #4a4a4a;
+}
+
+.description{
+    font-size: 14px;
+    font-family: Helvetica;
+    color: #4a4a4a;
+}
+
+#spreadsheet{
+    height: 100%;
+}
+
+.feedback{
+    width: 130px;
+    float: right;
+    margin: 0px;
+    font-size: 12px;
+    padding: 11px 12px 11px 12px;
+    font-family: Ubuntu;
+    font-weight: 500;
+    background-color: #efefef;
+    border-radius: 8px;
+}
+
+.feedback .message{
+    width:28px;
+    height: 28px;
+    vertical-align: sub;
+}
+
+.feedback-label{
+    width: 72px;
+    height: 28px;
+    display: inline-block;
+    margin: 0 4px 0 4px;
+    color: initial;;
+    font-weight: 500;
+}
+
+.left-arrow{
+    border: solid #4a4a4a;
+    border-width: 0 5px 5px 0;
+    display: inline-block;
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -5px;
+    margin: 0 0 0 10px;
+}
+
+.right-arrow{
+    border: solid #4a4a4a;
+    border-width: 0 5px 5px 0;
+    display: inline-block;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -5px;
+}
+
+.managerpanel{
+	padding: 20px 19px;
+	
+}
+.usertitle{
+	color: #4a4a4a;
+	padding-bottom: 13px;
+}
+.usersubtitle{
+	font-size: 18px;
+	color: #000000;
+	padding-bottom: 9px;
+}
+.txinput{
+	font: 8px;
+	color: #000000;
+	background-color: #ffffff;
+	border: 1px solid #979797;
+    width: 100%;
+    padding: 10px;
+    margin: 0px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.txinput::placeholder{
+	color: #9b9b9b;
+}
+
+input{
+	width: 100%;
+}
+
+td{
+	padding-right: 5px;
+}
+
+.separator td div{
+	width: 100%;
+    height: 1px;
+    background-color: #979797;
+    margin: 9px 0px 20px 0px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+#addVendorPanel input{
+	margin-bottom: 35px;	
+}

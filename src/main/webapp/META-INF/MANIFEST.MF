@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: hawk
+Build-Time: 2018-12-12 03:16:390
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_144
+Git-Commit: 522a0f394506583e545ab02e6462fc14d432353f
+Git-Branch: master
+Keikai-Version: 1.0.0-beta.15
