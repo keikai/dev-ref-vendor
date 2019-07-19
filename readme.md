@@ -9,6 +9,8 @@ If you are new to Keikai, we recommend you to read [Tutorial](https://doc.keikai
 
 `mvn jetty:run` (requires Maven installed and a keikai server running)
 keikai server is available at https://keikai.io/download
+update the keikai properties file to target the local keikai server:
+https://github.com/keikai/dev-ref-vendor/blob/master/src/main/resources/keikai.properties
 
 Then visit http://localhost:8080/dev-ref-vendor/manager/
 
