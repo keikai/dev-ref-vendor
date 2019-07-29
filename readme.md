@@ -1,4 +1,7 @@
-# [Keikai Developer Reference](https://doc.keikai.io/dev-ref)
+This project is the Source Code of Turning an Excel Vendor Form Into a Web Workflow article
+
+Other dev-ref applications can be found in the [Keikai Developer Reference](https://doc.keikai.io/dev-ref)
+
 The document introduces you how to develop a web application with Keikai through examples.
 This project contains the source code for the vendor form data collection.
 Please note that this is a simplified project for demonstration purposes. A production implementation should consider security and authentication aspects that are not included in this presentation.
